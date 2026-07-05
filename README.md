@@ -1,4 +1,6 @@
 This README file consists of projects I make and any other informations .
+Iam using Virtual Studio Code as IDE with latest version installed.
+Make sure your'e using latest version of Python and VS code.
 
 Basic-Python-Projects
 
