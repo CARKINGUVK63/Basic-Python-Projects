@@ -19,9 +19,6 @@ PROJECTS:-
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b8ccef80-ec51-46ce-b63f-d46e6638db28" />
 
 
-
-
-
 3. SPELLING CHECKER BY UVK BASIC:-
 
 This spelling checker needs words data by the user and the user_write function will check if the entered spelling or word matches as in the data.
@@ -34,8 +31,6 @@ then:-
 In case the user wrote wrong spelling:-
 <img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/29c0575f-b7b2-44a4-8181-1ce7f462c210" />
 You get incorrect message.
-
-
 
 4. 4-DIGIT LEAST NUMBER GENERATOR:-
 Before we step into the main code of this experiment, Just answer a common question:-
