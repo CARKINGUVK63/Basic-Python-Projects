@@ -40,7 +40,7 @@ For example By General Mathematics:-If a number 4391 is a 4-digit number, then c
 least 4- digit numbers using the given number .The answer is "1349" .
 
 In Python, I used if , else statements and forloop for i and j and len for length only for 4-digit number.
-<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/4f1dabdd-65b3-4a6c-9169-cd5462f9b01f" />
+<img width="959" height="507" alt="image" src="https://github.com/user-attachments/assets/1a0b09c1-c911-4b47-8a30-12dd06bf88d4" />
 By giving any 4 digits , the result will be a least 4-digit number.
 
 
