@@ -18,3 +18,35 @@ PROJECTS:-
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b8ccef80-ec51-46ce-b63f-d46e6638db28" />
 
+
+
+
+
+3. SPELLING CHECKER BY UVK BASIC:-
+
+This spelling checker needs words data by the user and the user_write function will check if the entered spelling or word matches as in the data.
+<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/a1ec87f0-9013-482f-9d9f-80129898ac85" />
+
+So we enter the spelling "Python" to check the spelling,
+<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/df70c7ce-fd9e-40c8-88f3-c044be27fb97" />
+then:-
+<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/578be270-a21e-46af-990b-db3f81fdacfe" />
+In case the user wrote wrong spelling:-
+<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/29c0575f-b7b2-44a4-8181-1ce7f462c210" />
+You get incorrect message.
+
+
+
+4. 4-DIGIT LEAST NUMBER GENERATOR:-
+Before we step into the main code of this experiment, Just answer a common question:-
+
+If the user gives a 4-digit number and asks the least 4-digit number.
+For example By General Mathematics:-If a number 4391 is a 4-digit number, then convert it into 
+least 4- digit numbers using the given number .The answer is "1349" .
+
+In Python, I used if , else statements and forloop for i and j and len for length only for 4-digit number.
+<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/4f1dabdd-65b3-4a6c-9169-cd5462f9b01f" />
+By giving any 4 digits , the result will be a least 4-digit number.
+
+
+
