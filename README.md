@@ -32,16 +32,7 @@ In case the user wrote wrong spelling:-
 <img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/29c0575f-b7b2-44a4-8181-1ce7f462c210" />
 You get incorrect message.
 
-4. 4-DIGIT LEAST NUMBER GENERATOR:-
-Before we step into the main code of this experiment, Just answer a common question:-
 
-If the user gives a 4-digit number and asks the least 4-digit number.
-For example By General Mathematics:-If a number 4391 is a 4-digit number, then convert it into 
-least 4- digit numbers using the given number .The answer is "1349" .
-
-In Python, I used if , else statements and forloop for i and j and len for length only for 4-digit number.
-<img width="959" height="507" alt="image" src="https://github.com/user-attachments/assets/1a0b09c1-c911-4b47-8a30-12dd06bf88d4" />
-By giving any 4 digits , the result will be a least 4-digit number.
 
 
 
